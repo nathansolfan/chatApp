@@ -6,6 +6,10 @@
 
     <div class="hidden  md:grid w-full border-l h-full overflow-y-auto  border-2 "  style="contain:content">
 
+        <div class="m-auto text-center justify-center flex  flex-col gap-3 ">
+
+            <h4 class="font-medium text-lg">Choose a conversation to start chatting </h4>
+        </div>
     </div>
 
 </div>
