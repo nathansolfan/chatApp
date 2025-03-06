@@ -2,6 +2,8 @@
     {{-- Be like water. --}}
     <div class="relative w-full md:w-[320px] xl:w-[400px] overflow-y-hidden shrink-0 h-full border-4">
 
+        @include('livewire.chat.chat-list')
+
     </div>
 
     <div class="hidden  md:grid w-full border-l h-full overflow-y-auto  border-2 "  style="contain:content">
