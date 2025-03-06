@@ -4,4 +4,8 @@
 
     </div>
 
+    <div class="hidden  md:grid w-full border-l h-full overflow-y-auto  border-2 "  style="contain:content">
+
+    </div>
+
 </div>
