@@ -22,7 +22,8 @@
         {{-- Filters --}}
 
         <div class="flex gap-3 items-center overflow-x-scroll p-2 bg-white">
-            <button class="inline-flex justify-center items-center rounded-full gap-x-1 text-xs font-medium px-3 lg:px-5 py-1  lg:py-2.5 border">
+
+            <button  @click="type='all'" :class="{'bg-blue-100':type='all'}"  class="inline-flex justify-center items-center rounded-full gap-x-1 text-xs font-medium px-3 lg:px-5 py-1  lg:py-2.5 border">
                 All
             </button>
 
